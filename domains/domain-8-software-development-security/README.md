@@ -52,4 +52,4 @@ This section organizes key concepts related to the Software Development Lifecycl
 
 The goal of this section is to document important concepts related to secure software development while building a structured knowledge base for CISSP Domain 8.
 
-Each topic folder contains concise explanations, examples, and notes designed to reinforce both theoretical understanding and practical application.git add README.md
+Each topic folder contains concise explanations, examples, and notes designed to reinforce both theoretical understanding and practical application.

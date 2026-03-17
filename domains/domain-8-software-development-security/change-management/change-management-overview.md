@@ -241,4 +241,4 @@ Fast changes might feel efficient in the moment, but uncontrolled changes create
 
 Mature engineering organizations focus on **controlled, well-documented changes that reduce operational risk**.
 
-The goal is not to slow engineers down, but to ensure the systems we build remain **reliable, secure, and maintainable over time**.
+The goal is not to slow engineers down, but to ensure the systems we build remain **reliable, secure, and maintainable over time**
